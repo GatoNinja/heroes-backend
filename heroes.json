@@ -1,0 +1,58 @@
+[
+    {
+        "Id": 1,
+        "Name": "Mutano",
+        "CategoryId": 1,
+        "Active": false,
+        "Category": null
+    },
+    {
+        "Id": 2,
+        "Name": "Charles Xavier",
+        "CategoryId": 2,
+        "Active": true,
+        "Category": null
+    },
+    {
+        "Id": 3,
+        "Name": "Garou",
+        "CategoryId": 3,
+        "Active": true,
+        "Category": null
+    },
+    {
+        "Id": 4,
+        "Name": "Saitama",
+        "CategoryId": 4,
+        "Active": false,
+        "Category": null
+    },
+    {
+        "Id": 5,
+        "Name": "Jax",
+        "CategoryId": 4,
+        "Active": false,
+        "Category": null
+    },
+    {
+        "Id": 6,
+        "Name": "GodZilla",
+        "CategoryId": 5,
+        "Active": false,
+        "Category": null
+    },
+    {
+        "Id": 7,
+        "Name": "Motra",
+        "CategoryId": 5,
+        "Active": true,
+        "Category": null
+    },
+    {
+        "Id": 8,
+        "Name": "Jolie Schadenfreude",
+        "CategoryId": 6,
+        "Active": true,
+        "Category": null
+    }
+]
